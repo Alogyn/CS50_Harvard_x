@@ -24,7 +24,7 @@ The CS50 CS program reaches its zenith with a final project, allowing you to syn
 
 ## Week-by-Week Overview
 
-- **Week 0:** Scratch
+- **Week 0:** [Scratch](week_0_scratch)
 - **Week 1:** C
 - **Week 2:** Arrays
 - **Week 3:** Algorithms
@@ -36,5 +36,3 @@ The CS50 CS program reaches its zenith with a final project, allowing you to syn
 - **Week 9:** Flask
 - **Week 10**: Emoji, Cybersecurity, Seminars
 - **Final Project**
-
-Join us on this exciting journey through the diverse landscapes of computer science, programming, and problem-solving. Let's embark on a quest to not only learn how to program but also to understand the very essence of computational thinking and the art of turning ideas into reality.
